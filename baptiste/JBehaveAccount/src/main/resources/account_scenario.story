@@ -1,4 +1,4 @@
-Scenario: Move money when I have enough money
+Scenariopatate: Move money when I have enough money
 Given an account with 10 euros
 And another with 0 euros
 When I transfer 5 euros
